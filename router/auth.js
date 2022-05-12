@@ -65,7 +65,8 @@ const authenticate = require('../middleware/authenticate')
             res.cookie('jwtoken', token,{
                 expires:new Date(Date.now() + 1000*60*60*24*15),
                 httpOnly: true,
-                secure : true
+                secure : true,
+                sameSite : "none"
             })
             if(!isMatch){
                res.status(400).json({ error:'Invalid Credentails'})
