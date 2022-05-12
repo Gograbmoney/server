@@ -1,16 +1,15 @@
 
- 
 const bcrypt = require('bcryptjs')
 const express = require('express')
 const jwt= require('jsonwebtoken') 
 const router = express.Router()
- require('../db/conn')
+require('../db/conn')
 const User = require('../models/userSchema')
- const authenticate = require('../middleware/authenticate')
+const authenticate = require('../middleware/authenticate')
 
  
 
-  // Promise REturn type not that easy or confusing 
+// Promise REturn type not that easy or confusing 
 // Asyn Await mode 
 
  router.post('/register', async (req, res)=>{
@@ -65,7 +64,8 @@ const User = require('../models/userSchema')
 
             res.cookie('jwtoken', token,{
                 expires:new Date(Date.now() + 1000*60*60*24*15),
-                httpOnly: true
+                httpOnly: true,
+                secure : true
             })
             if(!isMatch){
                res.status(400).json({ error:'Invalid Credentails'})
