@@ -4,7 +4,8 @@ const router = express.Router()
 
 const { authenticate, authorizeRole } = require('../middleware/authenticate')
 
-const { createUser,
+const { demo,
+    createUser,
     loginUser,
     logoutUser,
     getDataUserProfile,
@@ -21,7 +22,7 @@ const { createUser,
     verifyOTP,
     resendOTP} = require('../controllers/authController')
 
-router.route("/").get("Gograbmoney server is running...")
+router.route("/").get(demo)
 
 router.route('/register').post(createUser);
 
