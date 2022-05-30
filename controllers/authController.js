@@ -7,7 +7,7 @@ const crypto = require('crypto')
 
 // to test server configuration
 exports.demo = (req, res) => {
-       res.send("Gograbmoney server is running..... ")
+       res.status(200).json({message :"Gograbmoney server is running..... "})
 }
 // Create a new User 
 
