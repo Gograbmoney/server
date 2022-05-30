@@ -1,4 +1,3 @@
-
 const dotenv = require('dotenv')
 const mongoose = require('mongoose')
 const express = require('express')
@@ -6,7 +5,7 @@ const cookieParser = require('cookie-parser')
 const cors = require("cors");
 const app = express()
 const corsOptions = {
-    origin: 'http://localhost:3000',  //https://gograbmoney.com & http://localhost:3000
+    origin: 'https://gograbmoney.com',  //https://gograbmoney.com & http://localhost:3000
     credentials: true,            //access-control-allow-credentials:true
     optionSuccessStatus: 200,
 }
@@ -32,7 +31,17 @@ app.use("/api/v1",require('./router/auth'))
 // for products
 const products = require("./router/product");
 
+// for merchant
+
+const merchant = require("./router/merchant")
+
+// for offer
+
+const offer = require("./router/offer")
+
+app.use("/api/v1",merchant);
 app.use("/api/v1", products);
+app.use("/api/v1",offer);
 
 app.listen(PORT, () => {
     console.log(`port running at port ${PORT}`)

@@ -1,6 +1,6 @@
 const nodemailer = require("nodemailer")
 
-const sendEmail = async options => {
+const sendEmail = async (options) => {
 
     const transporter = nodemailer.createTransport({
         host: process.env.SMTP_HOST,
@@ -10,14 +10,7 @@ const sendEmail = async options => {
             pass: process.env.SMTP_PASSWORD // your password
         }
     });
-    const message = {
-        from: `${process.env.SMTP_FROM_NAME} <${process.env.SMTP_FROM_EMAIL}>`,
-        to: options.email,
-        subject: options.subject,
-        text: options.message
-    }
-
-    await transporter.sendMail(message);
+    await transporter.sendMail(options);
 }
 
 module.exports = sendEmail

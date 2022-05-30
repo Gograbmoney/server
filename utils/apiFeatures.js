@@ -5,7 +5,15 @@ class APIFeatures {
     }
     search() {
         const keyword = this.queryStr.keyword ? {
+            merchant: {
+                $regex: this.queryStr.keyword,
+                $options: "i"
+            },
             name: {
+                $regex: this.queryStr.keyword,
+                $options: "i"
+            },
+            Title: {
                 $regex: this.queryStr.keyword,
                 $options: "i"
             }

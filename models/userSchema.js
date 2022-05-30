@@ -20,6 +20,14 @@ const userSchema = mongoose.Schema({
         type: Number,
         required: true
     },
+    address: {
+        type: String,
+        default: ""
+    },
+    varified: {
+        type: Boolean,
+        default: false
+    },
     password: {
         type: String,
         required: [true, "Please enter your password"],
@@ -36,6 +44,29 @@ const userSchema = mongoose.Schema({
     date: {
         type: Date,
         default: Date.now
+    },
+    paymentdetails: {
+        taxId : { 
+            type: String,
+            default: ""
+           
+        },
+        nameOfBank: {
+            type: String,
+            default: ""
+        },
+        bankCode: {
+            type: String,
+            default: ""
+        },
+        accountNumber :{
+            type: Number,
+            default: ""
+        },
+        nameOfAccount : {
+            type: String,
+            default: ""
+        }
     },
     resetPasswordToken: String,
     resetPasswordExpire: Date,
@@ -58,15 +89,15 @@ const userSchema = mongoose.Schema({
                 required: true
             },
         }
-    ],
-    tokens: [
-        {
-            token: {
-                type: String,
-                required: true
-            }
-        }
     ]
+    // tokens: [
+    //     {
+    //         token: {
+    //             type: String,
+    //             required: true
+    //         }
+    //     }
+    // ]
 
 })
 

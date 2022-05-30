@@ -16,9 +16,16 @@ const { createUser,
     getAllUsers,
     getUserDetails,
     updateProfileByAdmin,
-    deleteUserByAdmin } = require('../controllers/authController')
+    deleteUserByAdmin ,
+    updatePaymentDetails,
+    verifyOTP,
+    resendOTP} = require('../controllers/authController')
 
 router.route('/register').post(createUser);
+
+router.route('/verifyotp').post(verifyOTP);
+
+router.route('/resendotp').post(resendOTP);
 
 router.route('/signin').post(loginUser);
 
@@ -27,6 +34,8 @@ router.route('/logout').get(logoutUser);
 router.route('/me').get(authenticate, getDataUserProfile);
 
 router.route('/me/update').put(authenticate, updateProfile);
+
+router.route('/me/update/paymentdetails').put(authenticate, updatePaymentDetails);
 
 router.route('/contact').post(authenticate, contactUs);
 
