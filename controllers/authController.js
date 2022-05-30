@@ -5,10 +5,7 @@ const userOtpVarification = require('../models/userOtpVarification')
 const sendEmail = require('../utils/sendEmail')
 const crypto = require('crypto')
 
-// to test server configuration
-exports.demo = (req, res) => {
-       res.status(200).json({message :"Gograbmoney server is running..... "})
-}
+
 // Create a new User 
 
 exports.createUser = async (req, res) => {

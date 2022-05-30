@@ -4,7 +4,7 @@ const router = express.Router()
 
 const { authenticate, authorizeRole } = require('../middleware/authenticate')
 
-const { demo,
+const { 
     createUser,
     loginUser,
     logoutUser,
@@ -22,7 +22,7 @@ const { demo,
     verifyOTP,
     resendOTP} = require('../controllers/authController')
 
-router.route("/").get(demo)
+
 
 router.route('/register').post(createUser);
 

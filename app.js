@@ -24,6 +24,11 @@ app.use(cookieParser())
 
 app.use(express.json());
 
+// to test server configuration
+app.get("/",(req,res)=> {
+    res.send("Gograbmoney server is running..... ")
+})
+
 //giving auth location
 
 app.use("/api/v1",require('./router/auth'))
@@ -38,6 +43,8 @@ const merchant = require("./router/merchant")
 // for offer
 
 const offer = require("./router/offer")
+
+
 
 app.use("/api/v1",merchant);
 app.use("/api/v1", products);
