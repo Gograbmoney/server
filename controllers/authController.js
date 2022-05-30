@@ -6,7 +6,7 @@ const sendEmail = require('../utils/sendEmail')
 const crypto = require('crypto')
 
 // to test server configuration
-exports.demo = async (req, res) => {
+exports.demo = (req, res) => {
        res.send("Gograbmoney server is running..... ")
 }
 // Create a new User 
