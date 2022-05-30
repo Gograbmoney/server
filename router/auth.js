@@ -21,6 +21,8 @@ const { createUser,
     verifyOTP,
     resendOTP} = require('../controllers/authController')
 
+router.route("/").get("Gograbmoney server is running...")
+
 router.route('/register').post(createUser);
 
 router.route('/verifyotp').post(verifyOTP);
