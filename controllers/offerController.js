@@ -43,6 +43,7 @@ exports.getSingleOffer = async (req, res, next) => {
         return res.status(404).json({
             success: false,
             message: "Offer not found",
+            error: `User does not found with id : ${req.params.id}`,
             offer
         })
     }
