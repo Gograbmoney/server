@@ -1,15 +1,16 @@
 const mongoose = require('mongoose')
 
 const offerSchema = new mongoose.Schema({
+    _id: String,
     Id: {
-        type : String,
-        unique : true
+        type: String,
+        unique: true
     },
     Title: {
         type: String,
         required: [true, "please enter title of offer"]
     },
-    Merchant : {
+    Merchant: {
         type: String,
         required: [true, "please enter merchant"]
     },
@@ -27,20 +28,20 @@ const offerSchema = new mongoose.Schema({
         required: [true, "please enter the category for this offer"],
         enum: {
             values: [
-                     "Baby & Kids",
-                     "Books",
-                     "Electronics",
-                     "Fashion",
-                     "Finance",
-                     "Flowers & Gifts",
-                     "Food & Grocery",
-                     "Gaming",
-                     "Health & Beauty",
-                     "Home & Kitchen",
-                     "Others",
-                     "Recharge",
-                     "Services",
-                     "Travel"
+                "Baby & Kids",
+                "Books",
+                "Electronics",
+                "Fashion",
+                "Finance",
+                "Flowers & Gifts",
+                "Food & Grocery",
+                "Gaming",
+                "Health & Beauty",
+                "Home & Kitchen",
+                "Others",
+                "Recharge",
+                "Services",
+                "Travel"
             ],
             message: "please select correct category for offer"
         }
@@ -48,10 +49,10 @@ const offerSchema = new mongoose.Schema({
     "Start Date": {
         type: String
     },
-    "End Date" : {
+    "End Date": {
         type: String
     },
-    "Offer Added At" : {
+    "Offer Added At": {
         type: String
     },
     URL: {
@@ -59,20 +60,20 @@ const offerSchema = new mongoose.Schema({
         required: [true, "please enter offer url"]
     },
     Status: {
-        type :String,
+        type: String,
         required: [true, "please enter status"],
-        default : "live"
+        default: "live"
     },
     merchant_status: {
-        type :Number,
+        type: Number,
         required: [true, "please enter merchant status"],
-        default : 1
+        default: 1
     },
     "Campaign ID": {
-        type : Number
+        type: Number
     },
-    "Campaign Name" : {
-        type : String
+    "Campaign Name": {
+        type: String
     },
     createdAt: {
         type: Date,
