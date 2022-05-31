@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
 const merchantSchema = new mongoose.Schema({
-    _id: { type: Schema.Types.ObjectId },
+   // _id: { type: Schema.Types.ObjectId },
     merchant: {
         type: String,
         required: [true, "please enter merchant name"]
