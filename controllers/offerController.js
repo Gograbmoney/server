@@ -38,12 +38,12 @@ exports.getOffer = async (req, res, next) => {
 
 exports.getSingleOffer = async (req, res, next) => {
     const offer = await Offer.findById(req.params.id);
-    console.log(req.params.id)
+
     if (!offer) {
         return res.status(404).json({
             success: false,
             message: "Offer not found",
-            id : req.params.id
+            offer
         })
     }
 
