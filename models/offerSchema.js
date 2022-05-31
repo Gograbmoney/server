@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
 const offerSchema = new mongoose.Schema({
-    _id: String,
+    _id: { type: Schema.Types.ObjectId },
     Id: {
         type: String,
         unique: true
