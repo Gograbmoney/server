@@ -37,7 +37,7 @@ exports.getOffer = async (req, res, next) => {
 // to get single Offer
 
 exports.getSingleOffer = async (req, res, next) => {
-    const offer = await Offer.findById(req.params.id);
+    const offer = await Offer.findById({_id : req.params.id});
 
     if (!offer) {
         return res.status(404).json({
