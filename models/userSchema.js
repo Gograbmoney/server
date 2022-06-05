@@ -31,11 +31,7 @@ const userSchema = mongoose.Schema({
     password: {
         type: String,
         required: [true, "Please enter your password"],
-        minlength: [6, "Please enter at least 6 characters"]
-    },
-    cpassword: {
-        type: String,
-        required: true
+        // minlength: [6, "Please enter at least 6 characters"]
     },
     role: {
         type: String,
@@ -109,7 +105,6 @@ userSchema.pre('save', async function (next) {
     if (this.isModified('password')) {
         console.log('encrypted the data')
         this.password = await bcrypt.hash(this.password, 12)
-        this.cpassword = await bcrypt.hash(this.cpassword, 12)
     }
     next()
 })

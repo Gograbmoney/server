@@ -5,9 +5,9 @@ const cookieParser = require('cookie-parser')
 const cors = require("cors");
 const app = express()
 const corsOptions = {
-    origin: 'https://www.gograbmoney.com',  //https://gograbmoney.com & http://localhost:3000
+    origin: 'https://gograbmoney.com',  //https://www.gograbmoney.com & http://localhost:3000
     credentials: true,          
-    //access-control-allow-credentials:true,
+    // //access-control-allow-credentials:true,
     optionSuccessStatus: 200,
 }
 

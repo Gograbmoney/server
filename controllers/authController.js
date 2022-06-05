@@ -13,23 +13,23 @@ exports.createUser = async (req, res) => {
     const { name, email, mobile, password, cpassword } = req.body
 
     if (!name || !email || !mobile || !password || !cpassword) {
-        return res.status(400).json({ error: 'PLZ Fill all the details' })
+        return res.status(400).json({ error: 'PLZ Fill all the details' , status: 200  })
     }
 
     try {
         const UserExist = await User.findOne({ email: email })
 
         if (UserExist) {
-            res.status(400).json({ error: 'User already exist' })
+            res.status(400).json({ error: 'User already exist' , status: 200  })
         }
-        const user = new User({ name, email, mobile, password, cpassword })
+        const user = new User({ name, email, mobile, password})
 
         //saves the data into db but first checks the decrypt in userSchema
         await user.save()
 
-        UserOTPVarificationEmail(user, res);
+        //UserOTPVarificationEmail(user, res);
 
-        res.status(200).json({ message: 'User registered Successfully !!! ' })
+        res.status(200).json({ message: 'User registered Successfully !!! ',  status: 200  })
     }
     catch (err) {
         console.log(err)
@@ -101,27 +101,27 @@ exports.verifyOTP = async (req, res) => {
                 const expiresAt = userOTPVarificationRecord[0].otp;
 
                 if (expiresAt < Date.now()) {
-                   //user otp record has expired
-                   await userOtpVarification.deleteMany({userId});
-                   throw new Error("Code has expire. Please request again.");
+                    //user otp record has expired
+                    await userOtpVarification.deleteMany({ userId });
+                    throw new Error("Code has expire. Please request again.");
                 }
                 else {
-                   const validOTP= await bcrypt.compare(otp,hashedOTP);
+                    const validOTP = await bcrypt.compare(otp, hashedOTP);
 
-                   if(!validOTP){
-                       //suplied otp is wrong
-                       throw new Error("Invalid otp. Please Check your Inbox");
-                   }
-                   else {
-                       //success
-                       await User.updateOne({_id,userId},{varified:true});
-                       await userOtpVarification.deleteMany({userId});
+                    if (!validOTP) {
+                        //suplied otp is wrong
+                        throw new Error("Invalid otp. Please Check your Inbox");
+                    }
+                    else {
+                        //success
+                        await User.updateOne({ _id, userId }, { varified: true });
+                        await userOtpVarification.deleteMany({ userId });
 
-                       res.json({
-                           status: 'VARIFIED',
-                           message: "User email varified successfully "
-                       })
-                   }
+                        res.json({
+                            status: 'VARIFIED',
+                            message: "User email varified successfully "
+                        })
+                    }
                 }
 
             }
@@ -136,15 +136,15 @@ exports.verifyOTP = async (req, res) => {
 
 exports.resendOTP = async (req, res) => {
     try {
-        let {userId,email} = req.body;
+        let { userId, email } = req.body;
 
-        if(!userId || !email) {
+        if (!userId || !email) {
             throw new Error("Empty User Details are not allowed")
         }
-        else{
+        else {
             //delete existing record and resend
-            await userOtpVarification.deleteMany({userId});
-            UserOTPVarificationEmail({_id: userId,email},res)
+            await userOtpVarification.deleteMany({ userId });
+            UserOTPVarificationEmail({ _id: userId, email }, res)
         }
     } catch (error) {
         res.json({
@@ -162,7 +162,10 @@ exports.loginUser = async (req, res) => {
     try {
         const { email, password } = req.body
         if (!email || !password) {
-            return res.status(400).json({ error: 'Please fill all fields' })
+            return res.status(400).json({
+                error: 'Please fill all fields',
+                status: 400
+            })
         }
 
         const CheckLogin = await User.findOne({ email: email })
@@ -181,17 +184,17 @@ exports.loginUser = async (req, res) => {
             res.cookie('jwtoken', token, {
                 expires: new Date(Date.now() + 1000 * 60 * 60 * 24 * 7),
                 httpOnly: true,
-                secure : true,
-                sameSite : "none"
+                 secure : true,
+                 sameSite : "none"
             })
             if (!isMatch) {
-                res.status(400).json({ error: 'Invalid Credentails' })
+                res.status(400).json({ error: 'Invalid Credentails', status: 400 })
             } else {
-                res.json({ message: 'User login successful !!!' })
+                res.status(200).json({ message: 'User login successful !!!' , status: 200  })
             }
         }
         else {
-            return res.status(400).json({ error: 'Please enter valid email' })
+            return res.status(400).json({ error: 'Please enter valid email' , status: 400 })
         }
     }
     catch (er) {
