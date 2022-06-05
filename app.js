@@ -6,6 +6,7 @@ const cors = require("cors");
 const app = express()
 const corsOptions = {
     origin: 'https://www.gograbmoney.com',  //https://www.gograbmoney.com & http://localhost:3000         
+    credentials: true
 }
 
 app.use(cors(corsOptions)) // Use this after the variable declaration
