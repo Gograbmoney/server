@@ -4,16 +4,24 @@ const express = require('express')
 const cookieParser = require('cookie-parser')
 const cors = require("cors");
 const app = express()
+const whitelist = ['https://www.gograbmoney.com', 'https://gograbmoney.com'];
 const corsOptions = {
-    origin: 'https://www.gograbmoney.com',  //https://www.gograbmoney.com & http://localhost:3000         
+    //origin: 'https://www.gograbmoney.com',  //https://www.gograbmoney.com & http://localhost:3000    
+    credentials: true, // This is important.
+    origin: (origin, callback) => {
+        if (whitelist.includes(origin))
+            return callback(null, true)
+
+        callback(new Error('Not allowed by CORS'));
+    }
 }
 
 app.use(cors(corsOptions)) // Use this after the variable declaration
 
-app.use((req, res, next) => {
-    res.header("Access-Control-Allow-Credentials",true);
-    next();
-  }) 
+// app.use((req, res, next) => {
+//     res.header("Access-Control-Allow-Credentials", true);
+//     next();
+// })
 
 dotenv.config({ path: './config.env' })
 
@@ -27,13 +35,13 @@ app.use(cookieParser())
 app.use(express.json());
 
 // to test server configuration
-app.get("/",(req,res)=> {
+app.get("/", (req, res) => {
     res.send("Gograbmoney server is running..... ")
 })
 
 //giving auth location
 
-app.use("/api/v1",require('./router/auth'))
+app.use("/api/v1", require('./router/auth'))
 
 // for products
 const products = require("./router/product");
@@ -48,9 +56,9 @@ const offer = require("./router/offer")
 
 
 
-app.use("/api/v1",merchant);
+app.use("/api/v1", merchant);
 app.use("/api/v1", products);
-app.use("/api/v1",offer);
+app.use("/api/v1", offer);
 
 app.listen(PORT, () => {
     console.log(`port running at port ${PORT}`)
