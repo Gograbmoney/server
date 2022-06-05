@@ -12,7 +12,7 @@ const corsOptions = {
 app.use(cors(corsOptions)) // Use this after the variable declaration
 
 app.use((req, res, next) => {
-    res.header({"Access-Control-Allow-Credentials": true});
+    res.header({"Access-Control-Allow-Credentials": "true"});
     next();
   }) 
 
