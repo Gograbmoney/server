@@ -5,16 +5,16 @@ const cookieParser = require('cookie-parser')
 const cors = require("cors");
 const app = express()
 const corsOptions = {
-    origin: 'https://gograbmoney.com',  //https://www.gograbmoney.com & http://localhost:3000         
+    origin: [ 'https://www.gograbmoney.com' , 'https://gograbmoney.com' ],  //https://www.gograbmoney.com & http://localhost:3000         
 
 }
 
 app.use(cors(corsOptions)) // Use this after the variable declaration
 
-app.use((req, res, next) => {
-    res.header({"Access-Control-Allow-Credentials": true});
-    next();
-  }) 
+// app.use((req, res, next) => {
+//     res.header({"Access-Control-Allow-Credentials": true});
+//     next();
+//   }) 
 
 dotenv.config({ path: './config.env' })
 
