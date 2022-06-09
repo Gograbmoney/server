@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 
 const userOtpVarificationSchema = mongoose.Schema({
     userId : String,
-    otp : String,
+    hashedOTP : String,
     createdAt : Date,
     expiresAt : Date
 });

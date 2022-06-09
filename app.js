@@ -4,7 +4,7 @@ const express = require('express')
 const cookieParser = require('cookie-parser')
 const cors = require("cors");
 const app = express()
-const whitelist = ['https://www.gograbmoney.com', 'https://gograbmoney.com'];
+const whitelist = ['https://www.gograbmoney.com', 'https://gograbmoney.com',"http://localhost:3000"];
 const corsOptions = {
     //origin: 'https://www.gograbmoney.com',  //https://www.gograbmoney.com & http://localhost:3000    
     credentials: true, // This is important.

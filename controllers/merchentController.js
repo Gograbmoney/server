@@ -18,20 +18,27 @@ exports.newMerchant = async (req, res, next) => {
 // to get merchant
 
 exports.getMerchant = async (req, res, next) => {
-    const resPerPage = 200;
+    const resPerPage = 8;
     const merchantCount = await Merchant.countDocuments();
+    const categoryCount = await Merchant.countDocuments({category : req.query.category});
     const apiFeatures = new APIFeatures(Merchant.find(), req.query)
         .search()
         .filter()
         .pagination(resPerPage)
 
+    const searchResult = new APIFeatures(Merchant.find(),req.query).search()
+    const searchResultCount = await searchResult.query;
+
     const merchant = await apiFeatures.query;
+
     res.status(200).json({
         success: true,
         count: merchant.length,
         merchantCount,
         resPerPage,
-        merchant
+        merchant,
+        categoryCount,
+        searchResultCount : searchResultCount.length
     })
 }
 
