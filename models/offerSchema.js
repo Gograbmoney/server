@@ -21,9 +21,9 @@ const offerSchema = new mongoose.Schema({
         required: [true, "please enter image url"]
     },
     commision: {
-        type: Number,
+        type: String,
         required: [true, "please enter cashback"],
-        default: 0.0
+        default: "0.0"
     },
     Categories: {
         type: String,
@@ -76,6 +76,13 @@ const offerSchema = new mongoose.Schema({
     },
     "Campaign Name": {
         type: String
+    },
+    carousal_image : {
+        type: String
+    },
+    carousal : {
+        type : Number ,
+        default : 0
     },
     createdAt: {
         type: Date,

@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
 const merchantSchema = new mongoose.Schema({
-   // _id: { type: Schema.Types.ObjectId },
+    // _id: { type: Schema.Types.ObjectId },
     merchant: {
         type: String,
         required: [true, "please enter merchant name"]
@@ -11,9 +11,9 @@ const merchantSchema = new mongoose.Schema({
         required: [true, "please enter image url"]
     },
     commision: {
-        type: Number,
+        type: String,
         required: [true, "please enter cashback"],
-        default: 0.0
+        default: "0.0"
     },
     category: [{
         type: String,
@@ -47,11 +47,15 @@ const merchantSchema = new mongoose.Schema({
         required: [true, "please enter campaign url"]
     },
     status: {
-        type :Number,
+        type: Number,
         required: [true, "please enter status"],
-        default : 1
+        default: 1
     },
-    country : [{
+    top_store: {
+        type: Number,
+        default: 0
+    },
+    country: [{
         type: String,
         default: "All Countries"
     }],
