@@ -1,9 +1,4900 @@
-{
-    "merchant" : "1mg",
-    "image" : "https://cdn0.cuelinks.com/merchant/1822/medium/Tata-1mg-logo-2.png?1625552010",
-    "commision" :  4.20,
-    "category" : "Health & Beauty" ,
-    "merchantUrl" : "https://www.1mg.com/",
-    "campaignUrl" : "https://linksredirect.com/?cid=168160&source=linkkit&url=https%3A%2F%2Fwww.1mg.com%2F",
-    "status": 1
-}
+[
+    {
+        "merchant": "Flipkart",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/1/19/14627-d4a8eb91a2fdef13.jpg",
+        "commision": "8.5%",
+        "category": [
+            "Baby & Kids",
+            "Books",
+            "Electronics",
+            "Fashion",
+            "Finance",
+            "Flowers & Gifts",
+            "Food & Grocery",
+            "Gaming",
+            "Health & Beauty",
+            "Home & Kitchen",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://linksredirect.com/?cid=168160&source=linkkit&url=https%3A%2F%2Fwww.flipkart.com",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 1
+    },
+    {
+        "merchant": "Amazon",
+        "image": "https://asset20.ckassets.com/resources/image/stores/amazon-1602658695.png",
+        "commision": "0%",
+        "category": [
+            "Baby & Kids",
+            "Books",
+            "Electronics",
+            "Fashion",
+            "Finance",
+            "Flowers & Gifts",
+            "Food & Grocery",
+            "Gaming",
+            "Health & Beauty",
+            "Home & Kitchen",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://www.amazon.in?&linkCode=ll2&tag=gograbmoney-21&linkId=adab558ea3c2da08f4f736d657c5ed95&language=en_IN&ref_=as_li_ss_tl",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 1
+    },
+    {
+        "merchant": "NordVPN",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/9/18867-a419856a8d70eb0a.svg",
+        "commision": "43.95%",
+        "category": [
+            "Others",
+            "Services"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/mai1uhgx16d978b21854004ed038cb/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Fiverr",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/9/18789-ae5fe7fbd179bf9a.svg",
+        "commision": "7$",
+        "category": [
+            "Others",
+            "Services"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/oqcmadzidpd978b21854acbbb3152e/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Coursera",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/9/22998-b63bda23828c4f51.svg",
+        "commision": "7.69%",
+        "category": [
+            "Others",
+            "Services"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/e7zq1rwhrgd978b2185448547b1485/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Udemy",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/7/20/22448-cc343a99b9ffd534.png",
+        "commision": "7.69%",
+        "category": [
+            "Others",
+            "Services"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/05dgete24sd978b21854b3e3b7aadc/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Magzter",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/23478-3cf1385e67987d89.png",
+        "commision": "4040₹",
+        "category": [
+            "Books"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/4m3ujrryhee3a230a619aadae9dc1a/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Aliexpress",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/6115-23f0d4d9fb4ec8d1.png",
+        "commision": "6.9%",
+        "category": [
+            "Fashion",
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://alitems.co/g/1e8d114494e3a230a61916525dc3e8/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Cotosen",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/11/17/26821-760d33b232b51b31.png",
+        "commision": "20%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/7ez2cndy8ke3a230a619fe9cf762a5/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Kinguin",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/5/27/24298-c3e04b4b7bfd00a8.svg",
+        "commision": "5%",
+        "category": [
+            "Gaming"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ai7w5urbcie3a230a61973f469699a/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Norton",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/3/10/22143-65e97234a1712afd.png",
+        "commision": "140%",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/4nnqeux1tee3a230a61911184c9701/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Tez Tour",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/12/1/19038-72ea9a9b4430e777.png",
+        "commision": "7.69%",
+        "category": [
+            "Travel"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/24oby4leuse3a230a61959fafa9a7f/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "City.Travel",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/1/5365-e4ff7c3f92d5a36b.png",
+        "commision": "7.50%",
+        "category": [
+            "Travel"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/c3c08bdc8fe3a230a61909315e6c64/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Mahzooz",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/6/28/24855-5fcaa23d432cb469.png",
+        "commision": "10.50%",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/pm4t6dmdxue3a230a619d5cde0c1db/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "DHgate",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/1/14622-b37f02332751d725.jpg",
+        "commision": "15%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/pzwp2neyhye3a230a6196a95c12d58/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "The Luxury Closet",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/10/8/20375-f987dc51de700d9a.jpg",
+        "commision": "5%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "http://ad.admitad.com/g/quh26xvvn8e3a230a6194413e8fc1b/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Donner",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/10/22/26000-3dae3adac0da78ee.jpg",
+        "commision": "13%",
+        "category": [
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/11pkisav6ie3a230a61954f7a9dbf9/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Banggood",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/13623-b58edd098a89c836.png",
+        "commision": "14%",
+        "category": [
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/e8f129b05ee3a230a6196213826a88/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Uniplaces",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/6/20793-b7261a19bd3c5e58.svg",
+        "commision": "11.53%",
+        "category": [
+            "Travel"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/q6cqf1mej2e3a230a61930896666f6/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Kotak 811",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/5/22594-b1b9e4e813abd8de.png",
+        "commision": "280₹",
+        "category": [
+            "Services"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/mbprflrshqe3a230a61941a3f81e9d/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "J.ing",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/10/25/26470-f08448f5b58ce3fa.png",
+        "commision": "13%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/hsfqckbh10e3a230a619f7cd9aae96/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Ajio",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/5/15591-68248ae4344d60f3.jpg",
+        "commision": "8.40%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/gobb106sd9e3a230a619a663530cb9/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 1
+    },
+    {
+        "merchant": "hidemy.name",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/17887-c4c858c765b0da77.png",
+        "commision": "50%",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/nml4qrv3eoe3a230a619a4339b0b6f/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Sunsky",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/22/18428-6999aaa7187e4c25.png",
+        "commision": "8%",
+        "category": [
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/7npkd4cs1ie3a230a619869a299fda/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Cupshe",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/3/5/24353-a7210d66630ff031.png",
+        "commision": "5%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/cxmwhe0wase3a230a619794561d6d0/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Lightinthebox",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/5631-b86ef1f0f1c21054.png",
+        "commision": "10%",
+        "category": [
+            "Fashion",
+            "Baby & Kids",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/383ee64557e3a230a6197d95a12660/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Geekbuying",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/5/31/15467-ebb8cebb230274fa.svg",
+        "commision": "8%",
+        "category": [
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/78tuvzaw8ke3a230a6190267b86f6e/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Myntra",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/12/11/15481-dc52d41b1d2bef28.png",
+        "commision": "7%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/s56leml8cke3a230a61923d5247706/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 1
+    },
+    {
+        "merchant": "Letyshops",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/2/16/20364-bfdae2e1ff8af23b.png",
+        "commision": "50%",
+        "category": [
+            "Baby & Kids",
+            "Books",
+            "Electronics",
+            "Fashion",
+            "Finance",
+            "Flowers & Gifts",
+            "Food & Grocery",
+            "Gaming",
+            "Health & Beauty",
+            "Home & Kitchen",
+            "Others",
+            "Recharge",
+            "Services",
+            "Travel"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://katuhus.com/g/pgaq6xb201e3a230a6193c853da261/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Asics",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/7/21334-df125e43ae1343e7.png",
+        "commision": "11.42%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/53w8y0ghxce3a230a61994327cb7ce/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "TheManCompany",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/2/12/21497-25ea3beffe5f2b4a.png",
+        "commision": "17.50%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/86kie8f8t8e3a230a61985e739f524/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Compensair",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/2/21539-2577834ffcfe3099.png",
+        "commision": "14€",
+        "category": [
+            "Others",
+            "Travel"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/5k6m2qm7z5e3a230a61990465e1588/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Youtravel.me",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/1/22709-a9cf42e0607f8ec3.png",
+        "commision": "4%",
+        "category": [
+            "Travel"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/6gk4ba6fs6e3a230a619cc54f31e64/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "TutorOnline",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/1/28/23077-9fdfc46452ed825c.png",
+        "commision": "18%",
+        "category": [
+            "Others",
+            "Books"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/0zjd5n8j28e3a230a619618d4ba968/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Edrawsoft",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/23197-8692fa4f5cc08908.png",
+        "commision": "30%",
+        "category": [
+            "Others",
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/a0exmi3bfqe3a230a61971cd9bc0ec/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Часы Молния",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/9/23259-2df8ba27ac7adc41.svg",
+        "commision": "8.75%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/h8f6ydwll2e3a230a61926e097ca3d/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Techwearclub",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/5/21/25007-1943d87e91504d97.png",
+        "commision": "20%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/erqpb168vne3a230a619561aeb8f90/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Justherbs",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/7/13/25860-f08176f24b9d8c27.png",
+        "commision": "14%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/x8eok28k6he3a230a61907372b7f77/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Nadula",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/1/24/27495-f71b42d703719217.png",
+        "commision": "7%",
+        "category": [
+            "Health & Beauty",
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/oy5ftorbbze3a230a61945ffeb074b/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Supertails",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/5/23/27799-e8307bcd691fcb02.jpg",
+        "commision": "420₹",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/9dby4y126ee3a230a6199e84c8bfb6/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Peesafe",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/4/26/28416-cb0520b4cb783600.png",
+        "commision": "51.10%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/2ticncw1qle3a230a619f664fd14bb/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Lenskart",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/23/28735-0e0cf8c51d3dab29.jpg",
+        "commision": "140₹",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/5vhd0v54mve3a230a61980bb9f1208/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Zivame",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/1/14/14729-880bb3da86ca7160.png",
+        "commision": "12%",
+        "category": [
+            "Baby & Kids",
+            "Books",
+            "Electronics",
+            "Fashion",
+            "Finance",
+            "Flowers & Gifts",
+            "Food & Grocery",
+            "Gaming",
+            "Health & Beauty",
+            "Home & Kitchen",
+            "Others",
+            "Recharge",
+            "Services"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/t2nm6m1kgce3a230a6195f08f4c55f/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 1
+    },
+    {
+        "merchant": "Pepperfry",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/5/14757-4a04891b33f1c920.jpg",
+        "commision": "5.60%",
+        "category": [
+            "Home & Kitchen"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/3a063wka0ye3a230a6196816d5588c/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Drop",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/8/19350-35c8809ec336b9b7.svg",
+        "commision": "2.30%",
+        "category": [
+            "Books",
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/zun49ooqd2e3a230a6193d44f2291c/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Blackview",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/9/20/19861-557843f052463c47.png",
+        "commision": "5%",
+        "category": [
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/e3s1raesi2e3a230a619b0f6ed77fa/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Redwolf",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/2/12/22414-9c0bd6ad381cafa5.png",
+        "commision": "8.50%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/3nesxx8kxce3a230a6195df4d07681/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Libas",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/12/2/25931-a467b8ccb46994da.png",
+        "commision": "7%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ilucexaz44e3a230a6194a7ccbea8a/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "WinXDVD",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/10/25/26434-6af75c12055b29c4.png",
+        "commision": "48%",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/835ekfdexye3a230a619ef490919bc/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Tomtop",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/14350-d3574e802373e46c.jpg",
+        "commision": "6%",
+        "category": [
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/xljorca896e3a230a6194bf89f6ddb/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Ru vds",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/11/24/15189-907a2a58fdaa1bce.png",
+        "commision": "36%",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/3osr80rrkze3a230a619a1e79b955d/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "CreditMantri",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/4/25/15222-2c5308b76b777689.png",
+        "commision": "70₹",
+        "category": [
+            "Services"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/mv1791krjxe3a230a61998cdc26ef0/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Newchic",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/15671-1402d334aba57d66.png",
+        "commision": "23%",
+        "category": [
+            "Baby & Kids",
+            "Books",
+            "Electronics",
+            "Fashion",
+            "Finance",
+            "Flowers & Gifts",
+            "Food & Grocery",
+            "Gaming",
+            "Health & Beauty",
+            "Home & Kitchen",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/0i4jszvwipe3a230a6193442850f04/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Fernsnpetals",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/1/16495-2c9ec7aa994ee263.png",
+        "commision": "8%",
+        "category": [
+            "Books",
+            "Flowers & Gifts"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ttefnvo3nue3a230a6199889a1a15e/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Cafago",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/17167-086c0cde196197d8.png",
+        "commision": "6%",
+        "category": [
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/xrzqqr83aze3a230a6190789458fbf/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Peggybuy",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/1/18930-5dbae1ff8d80c16b.png",
+        "commision": "12%",
+        "category": [
+            "Baby & Kids",
+            "Books"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/pc9t9ez2zse3a230a619468cec14c0/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Guardian",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/28/19368-3f8ff2cf7ead47c3.jpg",
+        "commision": "8%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/rn5jl7u0xje3a230a619933eb04b3f/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Alibaba",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/11/2/20881-ff9430e87ffe5736.png",
+        "commision": "5.40%",
+        "category": [
+            "Baby & Kids",
+            "Books",
+            "Electronics",
+            "Fashion",
+            "Finance",
+            "Flowers & Gifts",
+            "Food & Grocery",
+            "Gaming",
+            "Health & Beauty",
+            "Home & Kitchen",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/pm1aev55cle3a230a619219aa26f6f/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Knowfashionstyle",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/23111-51315d0befa997b5.png",
+        "commision": "13%",
+        "category": [
+            "Baby & Kids",
+            "Books",
+            "Electronics",
+            "Fashion",
+            "Finance",
+            "Flowers & Gifts",
+            "Food & Grocery",
+            "Gaming",
+            "Health & Beauty",
+            "Home & Kitchen",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/42gyx9a5b8e3a230a619b69546a09a/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Wondershare",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/2/11/23157-92030bffb3db8781.jpg",
+        "commision": "30%",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/8u3trxihmwe3a230a619ef655e4ac9/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "FacesCanada",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/2/18/23299-7f86acb320add443.jpg",
+        "commision": "14.28%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/6bh9szlah1e3a230a619804c002101/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Forest Essentials",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/12/4/23441-be2cb2c920a9490b.png",
+        "commision": "21.42%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/8654jk62nxe3a230a61917c05f049d/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "The Derma Co",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/11/19/23488-82cb64ece93344af.png",
+        "commision": "15%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ocery9v7twe3a230a6196c6debdaa1/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Wow",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/12/23825-0b62df89218b260d.png",
+        "commision": "17.50%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/mpdrlnimkue3a230a619abdf199b87/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 1
+    },
+    {
+        "merchant": "IU.RU",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/1/24346-01dfa84d89c893e3.svg",
+        "commision": "17.50%",
+        "category": [
+            "Services"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/h0n55hu9uye3a230a61950e1e2ef30/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Urbanic",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/22/24819-8fc1d9563eaf1afb.png",
+        "commision": "12.60%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/itfxi5v3s6e3a230a6195ed49c2f71/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Damensch",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/20/24838-6f1d202f67503409.jpg",
+        "commision": "175₹",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/e6n26823d3e3a230a6199e926e9bd6/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Sleepycat",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/6/3/24987-c1cdafa4b619321b.png",
+        "commision": "5.60%",
+        "category": [
+            "Home & Kitchen"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/1zbcs39r3ne3a230a619720f4f7e31/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Wholesale21",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/6/8/25258-e20b91158529d3d4.png",
+        "commision": "15%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/8xo2cbxarje3a230a61948fcc95487/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Body Cupid",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/10/13/26162-9e57a0d24767b8b8.png",
+        "commision": "21%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/lo0h34w61fe3a230a619cf4cd69313/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "World of Tanks",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/1/31/27655-c6665f3479297b50.svg",
+        "commision": "12.50$",
+        "category": [
+            "Gaming"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/bhvwp73ulie3a230a6193d16da5949/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "wowfit",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/4/14/28362-cdc61e1e4c2d2155.png",
+        "commision": "4083₽",
+        "category": [
+            "Books",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/2gg4cq47xte3a230a619c581e48fdd/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Imbue Naturals",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/16/28819-e06941347ac40ce0.jpg",
+        "commision": "46.60%",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/bxm10rtthpe3a230a619314e2419d1/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Myrentacar",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/3/28/15387-d9ba6b56ab62c500.svg",
+        "commision": "6.92%",
+        "category": [
+            "Services",
+            "Travel"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/66o8jzb2p9e3a230a6194f47f3b6f3/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Dresslily",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/15504-af674f26cd481a83.jpeg",
+        "commision": "14%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/dru1fiprm4e3a230a619c54bdbf551/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Zaful",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/15508-2ccf6db1de7fb4c0.png",
+        "commision": "10%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/5fdvtbwddee3a230a619e1c974a806/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "TataCliq",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/1/27/15542-bd45e8da2cf4f771.png",
+        "commision": "5%",
+        "category": [
+            "Fashion",
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/f9pyfv0or6e3a230a61922654840ad/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 1
+    },
+    {
+        "merchant": "Beardo",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/12/11/17812-e2df026b19c8ddda.png",
+        "commision": "14%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/xux46cchw7e3a230a619f3cb4f5322/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 1
+    },
+    {
+        "merchant": "JOCKEY",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/12/11/18245-5a0d3baed312a6b3.jpg",
+        "commision": "10%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/tzj7koxn9ze3a230a619e01e0df27d/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Milanoo",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/11/24/18350-7840027410a40982.png",
+        "commision": "15%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ca265zafmke3a230a6199f466608b0/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Jack&Jones",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/1/8/19016-c4f430236b7428d4.png",
+        "commision": "6.43%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/3ll479fwd1e3a230a619137c9e3e94/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Redmagic",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/20543-a465af8d264444b0.png",
+        "commision": "3.50%",
+        "category": [
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/qmttmvxh1ue3a230a61956637026d8/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Puma",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/12/18/21567-2d18f06029530825.png",
+        "commision": "5.60%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/y7f40iix60e3a230a619101cefe85e/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 1
+    },
+    {
+        "merchant": "Manyavar",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/4/4/21653-90125ac6b660a836.png",
+        "commision": "10%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/8zwihoey9le3a230a619177bb31219/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Mondelez Cadbury",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/7/6/22066-11034ffa01d34ef0.png",
+        "commision": "35%",
+        "category": [
+            "Flowers & Gifts"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/2zdt3s50lze3a230a619bd85fdcf9a/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Onsitego",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/7/15/22929-5b02fe1798907709.jpg",
+        "commision": "10.50%",
+        "category": [
+            "Food & Grocery",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ghm2oydbiae3a230a61917c9e294fc/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Nordpass",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/10/20/22965-9bd23d2878956942.svg",
+        "commision": "57.69%",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/mx19yq7dtce3a230a619410fff306a/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Marks and Spencer",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/23/23281-66816ed57edb6ed0.png",
+        "commision": "16%",
+        "category": [
+            "Baby & Kids",
+            "Books",
+            "Electronics",
+            "Fashion",
+            "Finance",
+            "Flowers & Gifts",
+            "Food & Grocery",
+            "Gaming",
+            "Health & Beauty",
+            "Home & Kitchen",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/pytsdmluo4e3a230a6195c6b806d99/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Crocs",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/11/26/23433-4cd94991c5c069d1.png",
+        "commision": "7%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/d2s1vaeuqve3a230a6194df569a289/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Kapiva",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/2/12/23646-373e4070f9bd8933.png",
+        "commision": "30%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/oqxdu8byxqe3a230a6198f2eb3eec0/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Trip.com",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/14/23733-2a3d1f32bb748535.png",
+        "commision": "5.50%",
+        "category": [
+            "Travel"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/yio6i5e56te3a230a619f37e25e0cc/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Boat",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/11/2/23961-1e8d6426985c24d7.png",
+        "commision": "7%",
+        "category": [
+            "Baby & Kids",
+            "Books",
+            "Electronics",
+            "Fashion",
+            "Finance",
+            "Flowers & Gifts",
+            "Food & Grocery",
+            "Gaming",
+            "Health & Beauty",
+            "Home & Kitchen",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/7afdioyovse3a230a61962c85ad976/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 1
+    },
+    {
+        "merchant": "Italojewerly",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/29/23964-32d8a4c3272c1cfe.png",
+        "commision": "20%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/l926tcw2sme3a230a61987e51e1a66/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Justfashionnow",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/3/1/24286-7f653b51c4842598.png",
+        "commision": "8%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/kmcoj56juve3a230a619608cdf386b/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Stylewe",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/2/26/24295-72048117eb78e9ac.png",
+        "commision": "12%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/r9ybpohdxoe3a230a619806f4427c0/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Daily Objects",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/2/11/24385-8a249461952138c9.png",
+        "commision": "7%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/7ec7q14he1e3a230a619849a4b014a/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Atlas VPN",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/1/10/24566-360a0097948e36a4.png",
+        "commision": "53.84%",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/3pq25dkwhde3a230a619bf50952f56/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Mego.travel",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/3/16/24677-bd6d95d6881cbb2d.png",
+        "commision": "3%",
+        "category": [
+            "Travel"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/tzlyjlkxc0e3a230a619798932ec82/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Advance-club",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/7/19/24762-03348c6dae72170a.png",
+        "commision": "14.58%",
+        "category": [
+            "Books",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/1jf9pl2gwke3a230a619ce60043df0/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "NiyoX Android",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/28/24805-a0270adb36bf3bbe.png",
+        "commision": "147₹",
+        "category": [
+            "Finance",
+            "Services"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ffe817pk1qe3a230a619e169ba3826/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "TurboVPN",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/9/24/25249-37aa6fea5015e46e.png",
+        "commision": "46%",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/exe221unkpe3a230a619ddf84d4c0b/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Fast & Up",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/8/13/25911-dd2bcf2818112a04.png",
+        "commision": "9.80%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ppvtu4ybm1e3a230a61978a5e19837/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Serpstat",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/11/5/26114-2c0ef6062e56640d.svg",
+        "commision": "31.46$",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/0grtng99gwe3a230a6196438fdf975/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Sanfe",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/11/29/26270-0a4f164db7749db6.png",
+        "commision": "17.50%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/nscpaamuqye3a230a619d580083668/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "itgen.io",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/1/13/27381-ebc9cc15aa443d37.jpg",
+        "commision": "50%",
+        "category": [
+            "Books",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/j179vjq27re3a230a619b865ddae99/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Bellavita Organic",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/2/4/27690-f301ed1b6df55578.png",
+        "commision": "21%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/6f7vw7lwhue3a230a619bffe557575/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 1
+    },
+    {
+        "merchant": "Guvi",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/4/11/27877-fa527b561c8abd29.png",
+        "commision": "24.50%",
+        "category": [
+            "Books",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/58e1647hxke3a230a6190b6abac617/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Acko Insurance",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/3/30/28208-e879efc3f015793c.png",
+        "commision": "1750₹",
+        "category": [
+            "Finance",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/101pv30l1ze3a230a61985dfc0f80c/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "KOPARO",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/4/29/28587-705ecb0a87295a13.png",
+        "commision": "336₹",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/2zp5zuz3c1e3a230a6190feed213ca/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "CyberBionic Systematics",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/5/19/28590-6f8234cd091c59bf.svg",
+        "commision": "3$",
+        "category": [
+            "Books",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/y1hir2351ie3a230a619777356f859/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Truebrowns",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/5/13/28659-f014685e65a4c80b.jpg",
+        "commision": "17.50%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/g58r35v1f9e3a230a619d046156b86/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "The Label Life",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/5/13/28669-c6dff21b6e2e7646.jpg",
+        "commision": "17.50%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/713n3rra3ie3a230a619ea86f5e0f5/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Abhishti",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/5/24/28717-075b5f40b0071c4a.jpg",
+        "commision": "17.50%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/rbixv4f8xqe3a230a61915c407e4c3/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "TVC-mall",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/16145-ec7baeb2e22f8c10.png",
+        "commision": "11%",
+        "category": [
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ypbc0wv2oue3a230a6195e1d7c1983/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Cyber Florist",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/6/16494-b4df26446f81cc9b.svg",
+        "commision": "10%",
+        "category": [
+            "Books",
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/y2zwzvitiee3a230a619d4ec31596f/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Kwork",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/2/17413-df7f1e9ca41317e1.png",
+        "commision": "600₽",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/hfrq9tjrspe3a230a619d7a732141a/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Adorama",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/8/18239-c2944745ae0e6a97.svg",
+        "commision": "1.50%",
+        "category": [
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/cbvmqmmirje3a230a61945f1c03a4a/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "360TotalSecurity",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/18363-4788142ad56b333d.png",
+        "commision": "53.80%",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/kxyhlrh1dke3a230a61979e51191f7/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "QEEQ",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/6/18989-553f144f9e258a51.png",
+        "commision": "5%",
+        "category": [
+            "Services",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/zs1r6fe7nle3a230a619ba3230df6b/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Reebok",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/11/25/19135-91a60f07cfb65374.png",
+        "commision": "10%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/j1ad9o482oe3a230a61968a694ff9d/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Durian",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/5/24/20922-8d81f43d718e3e5c.jpg",
+        "commision": "10.50%",
+        "category": [
+            "Home & Kitchen"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/xi019wk01te3a230a6191f59d52d46/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Durex",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/1/11/21064-73bbd0a0ea8cc44f.jpeg",
+        "commision": "17%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/9f0wolo4fle3a230a619bd6a9af57a/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Insider",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/3/11/21835-a4aedeaf5e1fe7bb.png",
+        "commision": "3.57%",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/0eafkvkqzoe3a230a619b8e1488cdf/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Freshtohome",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/12/11/21962-fba513d111c8e5ee.png",
+        "commision": "140₹",
+        "category": [
+            "Food & Grocery"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/bhw6mmyo1qe3a230a619cc0dff692b/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Times Prime",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/5/22348-15a1c2b6d9efb8a6.png",
+        "commision": "118₹",
+        "category": [
+            "Books",
+            "Food & Grocery",
+            "Services",
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/u23zlnd2nde3a230a619d712228549/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "MaxLife Insurance",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/11/4/22352-edc8e5a539b36def.png",
+        "commision": "105₹",
+        "category": [
+            "Finance"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/sbim6rqhhne3a230a61933bd52e9ca/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Veromoda",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/2/8/22519-f36106378d3adf65.png",
+        "commision": "6.43%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/7lq7k5ra2le3a230a6196e41d8bff9/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "NameCheap",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/3/10/22887-ae14debacd8888fc.png",
+        "commision": "39.28%",
+        "category": [
+            "Services",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/2he91lori9e3a230a6198ac8404e10/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Vijay Sales",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/2/12/23346-b67816c522878e9c.png",
+        "commision": "5.71%",
+        "category": [
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/zknivmix3he3a230a6192ab900d1a7/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Lilicloth",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/3/1/24288-24c2d19331bac327.png",
+        "commision": "12%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/6p4zka2wuue3a230a619cbd5ceef73/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Lakme",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/5/11/24915-5d6dbd216711ecfc.png",
+        "commision": "7%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/109v43sixge3a230a619cf87c8edb1/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "ICICI",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/5/7/24964-fb1c4097db91a35c.png",
+        "commision": "420₹",
+        "category": [
+            "Services"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/pgtnj7z1hae3a230a619059cd471b3/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Difmark",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/7/16/25861-34545dca7a694c62.png",
+        "commision": "10%",
+        "category": [
+            "Gaming"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/7a6i9524mae3a230a6193c1a428f97/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "ONLY",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/12/28/26012-a2246315738ba704.png",
+        "commision": "6.30%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/vmz0xg343ae3a230a619141cd98d46/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Oziva",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/9/30/26168-a216b508707bddb4.png",
+        "commision": "14%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/l2q71ognaae3a230a61926eb841bad/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Gentleherd",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/10/18/26287-3d2b62f31941633c.jpg",
+        "commision": "20%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/6wtagun4y2e3a230a619bf073a8e08/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Eyemyeye",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/4/5/27504-6ac1de2cc3e124a2.png",
+        "commision": "17%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/cnroaszzxde3a230a6195ab25117dd/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Doctor Dreams",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/4/1/27968-223f8444a1d12c08.png",
+        "commision": "17.50%",
+        "category": [
+            "Home & Kitchen"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/s24k53rjkme3a230a619133a473397/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Ixigo",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/3/29/28001-0c6474d4c168ec50.jpg",
+        "commision": "105₹",
+        "category": [
+            "Travel"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/jpjwgkurtze3a230a6192cc5d9f461/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Fitspire",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/5/27/28721-9f8e2b99cafe7ccd.png",
+        "commision": "46.70%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/8a10en7ovde3a230a619add32f72da/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Firstcry",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/2/12/14719-f2d5c6a3e6d2374e.jpg",
+        "commision": "35₹",
+        "category": [
+            "Baby & Kids"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/s04yc4g9rye3a230a61962ee748b0a/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "The panel station",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/19/15251-e33c2d6bc2538d8c.png",
+        "commision": "200₹",
+        "category": [
+            "Services"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/76xjokssm1e3a230a619275f677b50/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Clovia",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/27/15526-98320fd889ad96a3.jpg",
+        "commision": "17.50%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/scfupgazc5e3a230a6192ad3f2c5ae/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 1
+    },
+    {
+        "merchant": "Shoppersstop",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/3/7/16332-ac39e5f6e844e0cd.png",
+        "commision": "140₹",
+        "category": [
+            "Baby & Kids",
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/4ez4f2n9r7e3a230a6198ff14b2938/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 1
+    },
+    {
+        "merchant": "Foreo",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/1/18393-27b43b77bb7d2460.png",
+        "commision": "3.85%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/tq50ccnxpie3a230a619f9f4c51046/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Berrylook",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/20138-f0987eafaaba653d.png",
+        "commision": "13.80%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/3y6iwoo3oye3a230a61964f10e1b76/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "AbeBooks",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/8/21289-5a76fdf65b485d59.svg",
+        "commision": "5.20%",
+        "category": [
+            "Books"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/5kyfn8gmxxe3a230a619b4f698cda0/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Tanishq",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/12/21812-b3c6c49436f9a86e.png",
+        "commision": "4.90%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/xb7u4jaw58e3a230a6197e763a8685/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Mamaearth",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/17/22129-74bc417e01578d3d.png",
+        "commision": "17.50%",
+        "category": [
+            "Baby & Kids",
+            "Books",
+            "Electronics",
+            "Fashion",
+            "Finance",
+            "Flowers & Gifts",
+            "Food & Grocery",
+            "Gaming",
+            "Health & Beauty",
+            "Home & Kitchen",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/arr2hoyx7je3a230a619c093b6fac1/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 1
+    },
+    {
+        "merchant": "Valued Opinions",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/11/2/22421-6df8e7f2c0409f16.png",
+        "commision": "140₹",
+        "category": [
+            "Services"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/r5fzgky4r5e3a230a6190bd24e3ecf/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Tbdress",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/1/23529-efc3dcb726fee6cc.png",
+        "commision": "15%",
+        "category": [
+            "Baby & Kids",
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/oyt2qk74pse3a230a619d4bec656b9/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Bellewholesale",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/1/14/24183-143a937935ab6d01.png",
+        "commision": "8%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/1qx1gncw8oe3a230a619d373e4227f/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "ICICI Bank",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/6/3/24473-bc9ced6dba00b76c.png",
+        "commision": "105₹",
+        "category": [
+            "Finance"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/kr2xs8cyxte3a230a6198597513422/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Acer",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/3/26/24575-e5a159bd7cde6682.png",
+        "commision": "3.50%",
+        "category": [
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/67hxm0ezhve3a230a619759e60847d/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "lovemachines.ru",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/27/24667-b96aaf5720f12c47.png",
+        "commision": "7%",
+        "category": [
+            "Electronics",
+            "Flowers & Gifts"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/8edzsh5t71e3a230a61911a45d6e2f/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "HappyEasyGo",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/1/24722-0735623f26c34d24.png",
+        "commision": "91₹",
+        "category": [
+            "Travel"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/aqte5037mse3a230a6196350a04113/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "ITC Stores",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/6/15/25268-880f3419bcdea92c.jpg",
+        "commision": "10.50%",
+        "category": [
+            "Food & Grocery"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/tqxkkjew8we3a230a619d0a144ddbc/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 1
+    },
+    {
+        "merchant": "Nua Woman",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/2/11/26449-492d71cb7b23a7da.png",
+        "commision": "17.50%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/jzm0363w8te3a230a619dacc41280c/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "MacXDVD",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/12/30/27485-a0a00731e906b539.png",
+        "commision": "46.15%",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/so2ywis9xse3a230a6195c0cda76d6/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Litactivewear",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/1/24/27525-d521c7e208605e82.png",
+        "commision": "15%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/cj0zffw6dce3a230a619061057591d/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Philips",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/2/3/27647-6ce8d2eda584e366.png",
+        "commision": "5.60%",
+        "category": [
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ukt3b10iule3a230a61925f1bc3f66/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Frangipani",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/5/19/28733-b231551225af8faa.jpg",
+        "commision": "546₹",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/sm336gh4vje3a230a6190052a56a50/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Desertcart",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/9/19838-ac2d1d0c85746951.svg",
+        "commision": "3.84%",
+        "category": [
+            "Fashion",
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/q1y58oawiwe3a230a6194d8390ea65/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Drimsim",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/30/20342-47f0ff946c0a2c54.png",
+        "commision": "3€",
+        "category": [
+            "Services"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/qnn08swssge3a230a6195899866e9f/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Hopscotch",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/5/23/20347-48e1c86cfe90cd81.png",
+        "commision": "5.60%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/5gv97fnunme3a230a6192810185937/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "FARFETCH",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/5/13/20839-c2fc1314b6ca72f6.png",
+        "commision": "3%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ebcagxqll4e3a230a619a547327c2d/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Ericdress",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/20949-6cbcddd0902e72f6.png",
+        "commision": "10%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/nh293rl2cke3a230a619d392f6b614/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "FlowerAura",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/1/12/21476-c34f9ce67048831b.png",
+        "commision": "7%",
+        "category": [
+            "Flowers & Gifts"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/et5eb0p7lje3a230a619d1731442f2/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Malabar",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/2/25/21484-678554fc96bd1593.jpg",
+        "commision": "4.90%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/zcflox2g0ne3a230a61924725e5aee/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Domino's",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/12/14/21543-ea62016848927c41.png",
+        "commision": "22₹",
+        "category": [
+            "Food & Grocery"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/zcflox2g0ne3a230a61924725e5aee/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Shyaway",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/5/10/21598-b5bcadf8f3f3cc0f.jpg",
+        "commision": "21.25%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/dbs2tiebe2e3a230a619d82f6579f8/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Selected Homme",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/12/27/21637-0398dfe4a40c2511.png",
+        "commision": "6.30%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/pn6xo5xa8le3a230a61998e9add7fe/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Battle for the Galaxy",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/5/22673-aeacfb2609a17af8.png",
+        "commision": "40%",
+        "category": [
+            "Gaming"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/4ihqtpni2ne3a230a619b1aeb74da3/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Nike",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/3/17/23004-2f1f52c83a276c09.png",
+        "commision": "5.71%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/fs3906komce3a230a6193bf5474065/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Cubot",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/23008-22a1a233f33616af.png",
+        "commision": "6%",
+        "category": [
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/zk14cxa3ibe3a230a619dfca45d921/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "iQsha",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/1/23119-addd9dde0bae1d39.png",
+        "commision": "17.48%",
+        "category": [
+            "Books",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/1b54cyeline3a230a619a5c5b8be7c/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Swiggy web",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/3/12/23871-e466881062e4eab6.png",
+        "commision": "21₹",
+        "category": [
+            "Food & Grocery"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/478xyb04rce3a230a6197d5cb1bfd5/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Ustraa",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/12/17/23929-d96c19a626fca80d.png",
+        "commision": "17.50%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/o1v6l6s4ahe3a230a6193633d0fb78/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Hamleys",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/12/21/24059-cb3ed70a16da9e83.png",
+        "commision": "4.90%",
+        "category": [
+            "Baby & Kids"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/7e6geza5xre3a230a6197d3087ff7d/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Mothercare",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/12/22/24156-74b4150d388b8395.png",
+        "commision": "6.30%",
+        "category": [
+            "Baby & Kids"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/9zuljjmuace3a230a619b5719ee00b/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Basicslife",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/3/12/24387-26c54ba69accabd2.png",
+        "commision": "14%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/e2hlz8s308e3a230a619cb7936384a/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Hetman Software",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/6/7/24844-9f7ba60e0bb69b00.png",
+        "commision": "14%",
+        "category": [
+            "Fashion",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/dkfno5gw58e3a230a619de2fa2739c/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Hawalili",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/5/17/24994-83902492f9eb4838.png",
+        "commision": "12%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/pp157ve4q4e3a230a619b00fe91635/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Portronics",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/5/20/25137-57b16940c3788bf2.png",
+        "commision": "7%",
+        "category": [
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/t1a566v8hpe3a230a619e21f1ab63a/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Saramart",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/7/27/25572-9682b404c179dddd.png",
+        "commision": "10.92%",
+        "category": [
+            "Fashion",
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/84e1j7pvh1e3a230a619f271888eea/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "IndusInd Credit Card",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/9/6/25915-3ff94aa55fff6515.jpg",
+        "commision": "2100₹",
+        "category": [
+            "Finance"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/hq8y45n38be3a230a619b9ce7f65a5/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Glasswire",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/11/24/26226-f021e768b3a55213.png",
+        "commision": "28%",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ezb0fjxm37e3a230a61989d64aba96/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Wayrates",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/11/25/26846-d58dfb65a2cfcd62.png",
+        "commision": "15%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/gfhc91n9bbe3a230a6191d81d40fc4/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Snapdeal",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/3/30/27814-b8c342be827ebb7c.jpeg",
+        "commision": "19%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/v9y8cjlh3le3a230a619b1a8c047db/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Phablecare",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/21/28662-e6929eb09c42f3cf.png",
+        "commision": "70₹",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "http://ad.admitad.com/g/zndieubcl0e3a230a6191ffd84630c/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "AllenSolly",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/5/6/28666-a50a731742b8e98f.png",
+        "commision": "14%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/rrzzzcid8oe3a230a61991b100ba15/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Neemli Naturals",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/6/28732-caab37984a4ef10e.png",
+        "commision": "560₹",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/6dhnyctrnie3a230a6190bf2dde425/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Head Up For Tails",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/15/28845-7bd6867322199aca.jpg",
+        "commision": "7%",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ve3qploynfe3a230a619350b91a818/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "MiniInTheBox",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/5711-abe79002f61c163c.png",
+        "commision": "12%",
+        "category": [
+            "Electronics",
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/3aa22b4edbe3a230a61967b4bb3e03/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "IGP",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/2/12/16163-595bdc09eaaa710e.jpg",
+        "commision": "6.50%",
+        "category": [
+            "Flowers & Gifts"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "http://ad.admitad.com/g/bhq7k7hmcge3a230a6190451de8123/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Wigsbuy.com",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/8/9/16283-907644e7037df5aa.png",
+        "commision": "13%",
+        "category": [
+            "Fashion",
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/pj0bq4595ye3a230a619cf54de75e1/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Glasseslit",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/17970-a2369987b7d5e4aa.jpeg",
+        "commision": "18%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/mmjnepjawoe3a230a619de0721ef8d/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Teknistore",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/1/18071-d07bd3f852fb245d.png",
+        "commision": "3.80%",
+        "category": [
+            "Electronics",
+            "Baby & Kids",
+            "Home & Kitchen"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/wen3yeakfde3a230a619e017c44c28/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "ClickOnCare",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/15/24590-cc2b405165e5219c.png",
+        "commision": "7%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/kbb8on8x39e3a230a619c32d12d039/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Giva",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/15/28002-0d1fee7273cdc589.jpg",
+        "commision": "10.50%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/4bsvo4belwe3a230a619842dfa1e5f/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Colpal",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/5/18/28358-c8c25a836f9c5e87.png",
+        "commision": "21%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/d0e3xvq7dfe3a230a6196fb6038acb/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "WILDCRAFT",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/5/4/28583-034322e2bdc3ff15.png",
+        "commision": "7%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/95txkkwtbbe3a230a619324ccec726/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Acko Bike",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/5/4/28652-2e0ad2f8e3e96bbe.png",
+        "commision": "280₹",
+        "category": [
+            "Finance"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/77fgwqsklke3a230a619829ab83632/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Cesdeals",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/1/15008-b7bccb9d4e9959a3.png",
+        "commision": "10%",
+        "category": [
+            "Baby & Kids",
+            "Books",
+            "Electronics",
+            "Fashion",
+            "Finance",
+            "Flowers & Gifts",
+            "Food & Grocery",
+            "Gaming",
+            "Health & Beauty",
+            "Home & Kitchen",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/enfyv9i7oee3a230a619cc4476038e/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Tidebuy",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/15352-35d44099597af315.png",
+        "commision": "10%",
+        "category": [
+            "Electronics",
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/75hew036lxe3a230a6193fd583150e/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Glasseslit",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/17970-a2369987b7d5e4aa.jpeg",
+        "commision": "18%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/mmjnepjawoe3a230a619de0721ef8d/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Healthkart",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/3/18/18081-2573c013ffa80ade.jpg",
+        "commision": "3%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/vgnfl4ygnne3a230a6198bb47ae6b0/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Myglamm",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/12/23/19220-d9151c326035ceaa.jpg",
+        "commision": "20%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/w3hzi5mln2e3a230a619b59949cab1/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 1
+    },
+    {
+        "merchant": "Moglix",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/11/17/22017-f63ba670c579de32.jpeg",
+        "commision": "5.60%",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/8czvac9mfye3a230a61953570486d6/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Arata",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/1/14/22550-5ba3c68a74d4a575.png",
+        "commision": "25%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/5dc5uquc7we3a230a61981936b4054/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Kamaayurveda",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/2/12/23477-831ab9bdf90a8d50.jpg",
+        "commision": "22%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/e59udl9egfe3a230a619940deea487/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "GoNoise",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/10/26279-077c5cfe858bb189.jpg",
+        "commision": "4.90%",
+        "category": [
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ca53eqht6be3a230a6194f291dc1a9/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Space Engineers",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/10/29/26481-3dedade1beefabb2.png",
+        "commision": "16%",
+        "category": [
+            "Gaming"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/wdsa1v2g87e3a230a6191fc5dfbc6d/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Sanatoriums",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/2/8/27676-d266269ca85d317f.jpg",
+        "commision": "40%",
+        "category": [
+            "Travel"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/82hm46o8g4e3a230a619790b103c92/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Tutorialspoint",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/4/25/28550-ff6c04e4993f05d4.jpg",
+        "commision": "18%",
+        "category": [
+            "Books",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/xubrfbmb27e3a230a619df5de4c43a/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Priceelf",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/15039-5d08c5038a6bf08b.png",
+        "commision": "8.33%",
+        "category": [
+            "Electronics",
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/qxqywp9nite3a230a61984077c549c/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Whatwears",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/19710-efb230616040fc53.png",
+        "commision": "12%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/qytcofg102e3a230a6193490fe04e5/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "OnePlus",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/15/21934-ca8c7d5f21ab2200.png",
+        "commision": "6.95%",
+        "category": [
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/syrsd3cdxge3a230a619d91d1b8c1a/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Plum Goodness",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/5/12/22854-9c6933540a5aa3e0.png",
+        "commision": "14%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/lm8vs8u7sfe3a230a6199b4919d73c/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "GasJeans",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/3/17/23266-553754179cbd5796.png",
+        "commision": "3.57%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ilkatk6037e3a230a619a1fa1b06f6/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Himalaya Wellness",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/3/31/23732-2df8fca875821d09.png",
+        "commision": "4.20%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/qniwevahx8e3a230a6198aaaedc321/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Mc Donalds",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/1/13/23740-af99086988ddeebc.jpg",
+        "commision": "49₹",
+        "category": [
+            "Food & Grocery"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/2uk91k1ac8e3a230a619ffd748a72f/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Vision Express",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/5/31/25168-bbd086d2b744f6af.png",
+        "commision": "8.40%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/9001ssyrdwe3a230a619fea27c9970/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Fab India",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/17/28849-7287aeeffee33558.png",
+        "commision": "8.40%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ni86cvvm9ge3a230a61986bfcc9ba2/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Libertex",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/8/25/17350-501bf71c5cde243c.png",
+        "commision": "70$",
+        "category": [
+            "Finance"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/m3g0t4srg7e3a230a6194009ce43fc/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Vegas",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/9/18174-308b107526471030.svg",
+        "commision": "5.38%",
+        "category": [
+            "Travel"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/7z8rbci6j9e3a230a6192a35947101/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Liquid Web",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/9/18753-71d47d0edc922e05.svg",
+        "commision": "150%",
+        "category": [
+            "Services",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/v86il251are3a230a6198f52a3d634/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Microsoft",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/19376-20b647fa2539e626.png",
+        "commision": "547₹",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/v1wkhi3cl6e3a230a619ca211ca499/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Dr Batra's",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/7/13/20251-2170647b4fd04662.jpg",
+        "commision": "17.50%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/g9v12op14ye3a230a619dbf8c56424/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Ubuy",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/2/4/20774-a257a52bebbb137d.jpg",
+        "commision": "3.84%",
+        "category": [
+            "Baby & Kids",
+            "Health & Beauty",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/g2mod293nae3a230a6192b6b256099/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Blackshark",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/9/30/20836-f84fb701ddf3084b.png",
+        "commision": "2.50%",
+        "category": [
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/iabuo7wvk7e3a230a619480c2cdbcd/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "TheSouledStore",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/5/11/22415-1b362eeebd640454.png",
+        "commision": "7%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "http://ad.admitad.com/g/dspd4k8l80e3a230a61900d1cdf131/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Unacademy",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/7/16/22749-36802b877ee9bcdc.jpg",
+        "commision": "350₹",
+        "category": [
+            "Books",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "http://ad.admitad.com/g/y5mj9be8dpe3a230a619694a9787f1/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Deadhaus Sonata",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/11/1/22848-e76c5ef30db56cd4.png",
+        "commision": "28%",
+        "category": [
+            "Gaming"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/mhfryvz3l7e3a230a619820986b70e/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Alamy",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/11/1/22921-f5ce96445c8652e4.jpeg",
+        "commision": "11.54%",
+        "category": [
+            "Books",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/2iccuet8ehe3a230a6195796bcdfd3/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Udyan Tea",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/1/13/23074-73a72b4c0a57ce3f.png",
+        "commision": "15%",
+        "category": [
+            "Food & Grocery"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/kb2ax9t67de3a230a61922d3aa21f4/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Wild Terra 2: New Lands",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/12/3/23222-919c34223b3c2f82.png",
+        "commision": "32%",
+        "category": [
+            "Gaming"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/86rpiszpl1e3a230a619c7d259eb97/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "The Phylife",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2020/10/16/23515-b38439dc46afb9cc.png",
+        "commision": "14%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/gy8hz9a5qxe3a230a6192e365e9354/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Netmeds mobile",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/1/27/24275-8b7bf5b79f9ca292.png",
+        "commision": "4.20%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "http://ad.admitad.com/g/o38r68iog8e3a230a6199afbce23ff/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Netmeds Web",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/1/27/24275-8b7bf5b79f9ca292.png",
+        "commision": "4.20%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/h85t6fbiyle3a230a61953889984d9/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Clevguard",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/3/15/24655-c92b7e8139a55e2b.png",
+        "commision": "50%",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ssrh4l6w8ie3a230a61976c0f0264c/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Roselinlin",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/3/16/24669-b701ed1e428fac0a.jpg",
+        "commision": "12%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/5ajq8jh0yae3a230a619b36162f539/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "caviar-phone.ru",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/5/31/24745-7e45a53c104895ac.jpg",
+        "commision": "8.75%",
+        "category": [
+            "Fashion",
+            "Flowers & Gifts",
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/uoxzvowsrne3a230a61921147b72a1/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Bluehost",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/6/8/24781-9a5c05714618a9e1.png",
+        "commision": "4000₹",
+        "category": [
+            "Services",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/4g9ikb7ooue3a230a619ade96e5192/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Asterix & Friends",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/4/29/24937-96bed13773ca69e1.png",
+        "commision": "16%",
+        "category": [
+            "Gaming"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/sowfday76re3a230a6194d8d8f9956/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Monstrum 2",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/5/7/24939-92fc1838f2dac02e.png",
+        "commision": "24%",
+        "category": [
+            "Gaming"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/p37tg7a2upe3a230a6196e93657319/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Turnbull & Asser",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/5/17/24981-e3a4e18ea2f7ea1b.png",
+        "commision": "8%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ji9jmnqn7se3a230a619c6e3b6a47b/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Naploungewear",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/6/9/25234-fb9b364e416bfc92.png",
+        "commision": "23.07%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/pck77gphb2e3a230a61961ba2cfa59/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "CJdropshipping",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/6/15/25295-6e36771d0eb0e8d7.png",
+        "commision": "1.40%",
+        "category": [
+            "Services",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/5xdftnmgo3e3a230a6193dd0e8ca2a/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Kdan Mobile",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/11/9/25338-dd69078fd4dd9dd2.png",
+        "commision": "20%",
+        "category": [
+            "Services",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/5kjvrf6rn2e3a230a619fc6ab23eea/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Soulfull",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/8/5/25345-428f032a96992fb3.png",
+        "commision": "21%",
+        "category": [
+            "Food & Grocery"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/w2wfkhp1zce3a230a619e3ae6fd77f/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Ever Pretty",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/10/15/25905-4aafa80035486ac7.png",
+        "commision": "10%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/gt8k9pi8dwe3a230a61951e9080b62/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Bestseller Clothing",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/12/27/26013-f5e9df49dfba2007.png",
+        "commision": "6.30%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/x18tdof13ke3a230a619b5b9afdedd/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Silk Maison",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/2/14/26177-e94f113f95091a57.png",
+        "commision": "20%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/d4tmlu9kbve3a230a61979328f6582/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "TheayurvedaCo",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/10/1/26220-dbdf5db44d0a61e8.png",
+        "commision": "21%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/2ny57hvrcue3a230a619f965f38f5e/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Plesk",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/11/18/26225-40a427503493dd31.png",
+        "commision": "14%",
+        "category": [
+            "Services",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/w5t4r2zqu3e3a230a619278e436fe9/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Mcafee",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/10/19/26267-b5927f84c190fce0.png",
+        "commision": "24$",
+        "category": [
+            "Services",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/pm12l6lqlse3a230a61969c9931c05/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Xterium: War of Alliances",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/10/20/26480-5e473919975fec99.png",
+        "commision": "28%",
+        "category": [
+            "Gaming"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ss0b13cul3e3a230a6192eeacc9d23/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Chernobylite",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2021/10/29/26483-b896e4c8996a9a04.png",
+        "commision": "16%",
+        "category": [
+            "Gaming"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/gjwnvp6epve3a230a619c6824e3a51/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Steelseries",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/2/17/26514-28e9b4e2af273187.png",
+        "commision": "5%",
+        "category": [
+            "Electronics"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/m1yueue4vhe3a230a6196571b708be/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Chatfuel",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/4/27/27280-89fa24f99d8b7b2a.png",
+        "commision": "25%",
+        "category": [
+            "Food & Grocery",
+            "Health & Beauty",
+            "Home & Kitchen",
+            "Others",
+            "Recharge",
+            "Services"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/tj2mjv9sgle3a230a61954df19d02f/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Bigflex",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/1/18/27340-dc24659ccaa0e52b.jpg",
+        "commision": "10.50%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/kkgkse6dxne3a230a61978b1732ab1/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Wego Hotels",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/2/18/27500-ac5d2eb45bd1bc31.png",
+        "commision": "2.09%",
+        "category": [
+            "Travel"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/i93fa0nvade3a230a619c91e8488b1/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "The Sleep Company",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/22/27505-507824ad5aba6dd4.png",
+        "commision": "4.90%",
+        "category": [
+            "Home & Kitchen"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/e21kvhg42be3a230a6198c6593345a/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Tapfiliate",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/1/24/27592-84724a8df7692835.png",
+        "commision": "7%",
+        "category": [
+            "Services",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/1sp3lr5uzqe3a230a619ca80d6a593/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Superbottoms",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/2/8/27665-4595514f6bbf2608.jpg",
+        "commision": "10.50%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/upp6b8j80ie3a230a619f69e651324/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Hekka",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/4/13/27730-60d3a3b817b94dbe.jpg",
+        "commision": "12%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/mdc20u1osoe3a230a619a8b1b7e958/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Webroot",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/3/15/27882-c5a0c94e1e78f34d.png",
+        "commision": "15%",
+        "category": [
+            "Others",
+            "Services"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/0tgnz4x6oge3a230a619c20d6e3fef/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "AcademyOcean",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/4/29/28180-9eab10cb34a0ac2c.svg",
+        "commision": "11.67%",
+        "category": [
+            "Others",
+            "Services"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/97g8zvga4de3a230a619d1406b0e18/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "DaleelStore",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/23/28315-c027f9fb79ff5f25.jpg",
+        "commision": "1.75%",
+        "category": [
+            "Others",
+            "Books"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/vjngwbrdfde3a230a619e9da3821a2/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Dr. Vaidyas",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/29/28369-3914dc8ef4cef4bb.png",
+        "commision": "17.50%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/t2irdcedjje3a230a61944d7b0c8e0/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Mamaearth",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/17/28527-d00de9e235def0e2.png",
+        "commision": "21%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "http://ad.admitad.com/g/209moyrcqee3a230a6199b53268a3c/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Biffi",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/5/17/28619-8d882a1ab3390b69.jpg",
+        "commision": "7%",
+        "category": [
+            "Baby & Kids",
+            "Books",
+            "Electronics",
+            "Fashion",
+            "Finance",
+            "Flowers & Gifts",
+            "Food & Grocery",
+            "Gaming",
+            "Health & Beauty",
+            "Home & Kitchen",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/sj6h5agqhre3a230a619d69420863c/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Betterhalf",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/16/28654-b0d5e6508ec951fd.jpg",
+        "commision": "77₹",
+        "category": [
+            "Others",
+            "Services"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "http://ad.admitad.com/g/7jh9ti89kee3a230a6191bbf07517a/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Titan Eye+",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/23/28655-1a09ccdb30b2d178.png",
+        "commision": "14%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/lwxg201ehze3a230a6198879699317/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Uniqlo India",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/21/28657-c9923d8d29ca6e52.png",
+        "commision": "2.80%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/qot345j9bqe3a230a619ccb93e5ddd/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "FI MONEY",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/7/6/28665-58c87eec2d5d98c8.jpg",
+        "commision": "280₹",
+        "category": [
+            "Finance"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "http://ad.admitad.com/g/eekkw038hbe3a230a6191a4b981df2/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Voylla New",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/7/4/28716-6a14036385edd795.jpg",
+        "commision": "17.50%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/nhuf8hsiv8e3a230a619f0ab7789f0/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Kaspersky",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/9/28757-1c0fada471b6724b.png",
+        "commision": "17.50%",
+        "category": [
+            "Others",
+            "Services"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ezbcy0w5k1e3a230a619aedc895714/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "3000 palabras",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/28/28781-c0079a646cd49ca3.png",
+        "commision": "5.94$",
+        "category": [
+            "Others",
+            "Services"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "http://ad.admitad.com/g/1ceawtusq5e3a230a6199f7c92feb3/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Sesacare",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/6/28832-4593323af254e6b1.jpg",
+        "commision": "21%",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/y08p2trpy6e3a230a619c2ba01c1a2/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Chegg",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/22/28853-143c618c21d3f5d5.jpg",
+        "commision": "83.30%",
+        "category": [
+            "Others",
+            "Books"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/sw4j53d1jte3a230a619649ba49703/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Sheet Music Plus",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/9/28854-6f9bea3c893b87b5.png",
+        "commision": "8.40%",
+        "category": [
+            "Books"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/1i4zid0qlxe3a230a619cb407d4c87/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Almowear",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/9/28856-dd831165c8fe6a22.jpg",
+        "commision": "21%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/3k1u5k9h54e3a230a6190842a12c60/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "French Crown",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/24/28859-2550fd160a436b95.png",
+        "commision": "14%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/agxf5mz5bpe3a230a619b0a54c3c7f/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "AU Bank Credit Card",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/17/28908-088db8c8895f2f17.png",
+        "commision": "1728.50₹",
+        "category": [
+            "Finance"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/414q88lvize3a230a61952052eb014/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Love Beauty and Planet",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/7/6/28910-272f7540b648ee50.jpg",
+        "commision": "21%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/u9yi4mjkjie3a230a6198324a3d528/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Baby Dove",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/30/28911-3eab8f1edfc1915f.png",
+        "commision": "21%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/6ilazoeklse3a230a6197cfa1b2f60/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Simple Skincare",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/7/5/28912-4c91929d9267903b.png",
+        "commision": "21%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/w7426hp374e3a230a619522cf31042/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "The UShop",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/6/30/28913-04102a4056ba878f.png",
+        "commision": "21%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/5vyuocnuc1e3a230a61937a5e63c48/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Open Secret",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/8/10/28923-e5c25438b15f72e4.png",
+        "commision": "17.50%",
+        "category": [
+            "Food & Grocery"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/gpov7lx18fe3a230a6195a47bb5ece/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Truhair",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/7/11/28925-bccf4494a648e1ef.png",
+        "commision": "300₹",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/cxpor1a3c0e3a230a619f0d98df539/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "ET Prime",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/7/11/28926-e2da49576ef5389f.jpg",
+        "commision": "14%",
+        "category": [
+            "Services",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/s551cpr0ure3a230a61906e9ba07b4/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "HCL Jigsaw",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/7/6/28961-3677e0cdc5851dde.png",
+        "commision": "280₹",
+        "category": [
+            "Books",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/ixphqpncoee3a230a619be91bb26bb/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "SafeShare",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/7/1/29078-164f02fd8abf1d20.png",
+        "commision": "21%",
+        "category": [
+            "Services",
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/9xwhismgn7e3a230a619cf4abaa11a/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Miraggio",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/7/19/29086-6073db2952b57083.jpg",
+        "commision": "14%",
+        "category": [
+            "Others"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/7duoyy4usne3a230a619059f8a1d6f/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Lee",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/7/13/29124-8eca86142afad30a.png",
+        "commision": "14%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/vsmhgrsoste3a230a61924ad28142d/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Fastrack Eyewear",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/7/7/29129-04df46ea821ed4ce.png",
+        "commision": "14%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/0tirfou3cve3a230a619980860c735/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Nestasia",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/7/18/29144-d7590c6d7890fe46.jpg",
+        "commision": "465.50₹",
+        "category": [
+            "Home & Kitchen"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/qyb0tyzszte3a230a61913a6e95475/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Powerlook",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/7/13/29147-d1a33604bf9a2b90.jpg",
+        "commision": "465.50₹",
+        "category": [
+            "Home & Kitchen"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/amzt39y8cte3a230a6194041d0a6cd/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "AEO",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/7/15/29159-f4549e094887dea0.png",
+        "commision": "19.50%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/z6x96jbr98e3a230a619aa294fce5d/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Suta",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/7/28/29167-25ee16d2bbe05300.jpeg",
+        "commision": "14%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/h28f2duw2ge3a230a619594a1aa981/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Attic Salt",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/7/25/29181-b26ba282a1c4174d.jpg",
+        "commision": "18.48%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/vplxrtw65be3a230a619a3f52c65aa/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Peter England",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/7/27/29185-0f8c665d300c592e.png",
+        "commision": "14%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/sck7tbnlhce3a230a61972d5b91e63/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "KRA",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/8/5/29193-2b389bb44fe9d319.png",
+        "commision": "14%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/zcj0xm40uhe3a230a61974b5ed7165/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Dcraf",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/8/5/29195-7f752a124107165b.png",
+        "commision": "28%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/737q951a6re3a230a6193738f691b1/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Bajaj Insta EMI Card",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/8/9/29197-05127b890c0d844f.png",
+        "commision": "175₹",
+        "category": [
+            "Finance"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/c9wi9ok31se3a230a61917e8894ef1/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Aqualens",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/8/8/29198-3efa84e3d5ff6650.jpg",
+        "commision": "10.50%",
+        "category": [
+            "Fashion"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/09v7zznt95e3a230a6196bd40b4f86/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Rage Coffee",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/8/4/29238-0ff01c71ab4f746e.png",
+        "commision": "280₹",
+        "category": [
+            "Food & Grocery"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/8uotjtay67e3a230a6192a86e5378d/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Monster Triumph",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/8/8/29243-6edad3513172d732.png",
+        "commision": "52.50₹",
+        "category": [
+            "Others",
+            "Services"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/anixmnczvke3a230a619c6eee5bfe4/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Sebamed",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/8/10/29260-466c24cfc186f404.png",
+        "commision": "420₹",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/zndz2d6o9ae3a230a6190898743494/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "Kiro Beauty",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/8/11/29282-a1ba523a439b3a43.png",
+        "commision": "700₹",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/n5jc3u912oe3a230a619f06710ea9f/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    },
+    {
+        "merchant": "The Woman's Company",
+        "image": "https://cdn.admitad-connect.com/public/campaign/images/2022/8/10/29291-b372e44e826be5d8.jpg",
+        "commision": "87.50%",
+        "category": [
+            "Health & Beauty"
+        ],
+        "merchantUrl": "",
+        "campaignUrl": "https://ad.admitad.com/g/nd65g7wcxre3a230a6198462f7ade2/",
+        "country": [
+            "India"
+        ],
+        "status": 1,
+        "top_store": 0
+    }
+]

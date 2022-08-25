@@ -20,6 +20,7 @@ exports.newMerchant = async (req, res, next) => {
 exports.getMerchant = async (req, res, next) => {
     const resPerPage = 16;
     const merchantCount = await Merchant.countDocuments();
+    const topmerchants = await Merchant.find();
     const categoryCount = await Merchant.countDocuments({category : req.query.category});
     const apiFeatures = new APIFeatures(Merchant.find(), req.query)
         .search()
@@ -35,6 +36,7 @@ exports.getMerchant = async (req, res, next) => {
         success: true,
         count: merchant.length,
         merchantCount,
+        topmerchants,
         resPerPage,
         merchant,
         categoryCount,
