@@ -13,7 +13,7 @@ const merchantSchema = new mongoose.Schema({
     commision: {
         type: String,
         required: [true, "please enter cashback"],
-        default: "0.0"
+        default: "0%"
     },
     category: [{
         type: String,

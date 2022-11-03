@@ -1,13 +1,6 @@
 const mongoose = require('mongoose')
 
 const offerSchema = new mongoose.Schema({
-    // _id: { 
-    //     type: Schema.Types.ObjectId 
-    // },
-    Id: {
-        type: String,
-        unique: true
-    },
     Title: {
         type: String,
         required: [true, "please enter title of offer"]
@@ -16,6 +9,10 @@ const offerSchema = new mongoose.Schema({
         type: String,
         required: [true, "please enter merchant"]
     },
+    top_offer:{
+        type : Number,
+        default: 0
+    },
     "Image URL": {
         type: String,
         required: [true, "please enter image url"]
@@ -23,7 +20,7 @@ const offerSchema = new mongoose.Schema({
     commision: {
         type: String,
         required: [true, "please enter cashback"],
-        default: "0.0"
+        default: "0%"
     },
     Categories: {
         type: String,
@@ -48,34 +45,9 @@ const offerSchema = new mongoose.Schema({
             message: "please select correct category for offer"
         }
     },
-    "Start Date": {
-        type: String
-    },
-    "End Date": {
-        type: String
-    },
-    "Offer Added At": {
-        type: String
-    },
     URL: {
         type: String,
         required: [true, "please enter offer url"]
-    },
-    Status: {
-        type: String,
-        required: [true, "please enter status"],
-        default: "live"
-    },
-    merchant_status: {
-        type: Number,
-        required: [true, "please enter merchant status"],
-        default: 1
-    },
-    "Campaign ID": {
-        type: Number
-    },
-    "Campaign Name": {
-        type: String
     },
     carousal_image : {
         type: String
@@ -83,6 +55,12 @@ const offerSchema = new mongoose.Schema({
     carousal : {
         type : Number ,
         default : 0
+    },
+    date_start :{
+        type: String
+    },
+    date_end :{
+        type: String
     },
     createdAt: {
         type: Date,
