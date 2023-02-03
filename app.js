@@ -23,7 +23,7 @@ app.use(cors(corsOptions)) // Use this after the variable declaration
 //     next();
 // })
 
-dotenv.config({ path: './config.env' })
+dotenv.config({ path: '.env' })
 
 //Database of Mongoose
 require('./db/conn')
