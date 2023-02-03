@@ -4,14 +4,14 @@ const express = require('express')
 const cookieParser = require('cookie-parser')
 const cors = require("cors");
 const app = express()
-const whitelist = ['https://www.gograbmoney.com', 'https://gograbmoney.com',"http://localhost:3000","https://gograbmoney.netlify.app"];
+
+const whitelist = ['https://www.gograbmoney.com', 'https://gograbmoney.com',"http://localhost:3000","http://localhost:3001"];
 const corsOptions = {
     //origin: 'https://www.gograbmoney.com',  //https://www.gograbmoney.com & http://localhost:3000    
     credentials: true, // This is important.
     origin: (origin, callback) => {
         if (whitelist.includes(origin))
             return callback(null, true)
-
         callback(new Error('Not allowed by CORS'));
     }
 }
